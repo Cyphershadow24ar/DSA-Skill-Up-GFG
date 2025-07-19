@@ -3,3 +3,4 @@ This Repository contains all the solutions to the All the DSA questions asked in
 
 # PROBLEM 
 1. LCM Triplet
+2. Count Unique Vowel Strings
