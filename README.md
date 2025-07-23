@@ -7,3 +7,4 @@ This Repository contains all the solutions to the All the DSA questions asked in
 3. Count Numbers Containing Specific Digits
 4. Count the Coprimes
 5. Smallest Positive Missing
+6. Sum of Subarrays
