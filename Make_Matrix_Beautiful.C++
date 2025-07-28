@@ -37,3 +37,32 @@ Constraints:
 */
 
 // SOLUTION :-
+
+class Solution {
+  public:
+    int balanceSums(vector<vector<int>>& mat) {
+        // code here
+        int n= mat.size();
+        vector<int> rowSum(n, 0);
+        vector<int> colSum(n, 0);
+        
+        for(int i = 0; i<n; ++i){
+            for(int j = 0; j<n; ++j){
+                rowSum[i] += mat[i][j];
+                colSum[j] += mat[i][j];
+            }
+        }
+        
+        int maxSum = 0;
+        for(int i=0; i<n; i++){
+            maxSum = max(maxSum, rowSum[i]);
+            maxSum = max(maxSum, colSum[i]);
+        }
+        
+        int totalSum = 0;
+        for(int i=0; i<n; ++i){
+            totalSum += rowSum[i];
+        }
+        return (maxSum*n) - totalSum;
+    }
+};
