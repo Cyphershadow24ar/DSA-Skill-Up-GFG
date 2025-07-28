@@ -12,3 +12,4 @@ This Repository contains all the solutions to the All the DSA questions asked in
 8. Max Circular Subarray Sum
 9. Majority Element - More Than n/3
 10. Set Matrix Zeros
+11. Make Matrix Beautiful
