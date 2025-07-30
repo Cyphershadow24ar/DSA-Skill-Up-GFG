@@ -14,3 +14,4 @@ This Repository contains all the solutions to the All the DSA questions asked in
 10. Set Matrix Zeros
 11. Make Matrix Beautiful
 12. ASCII Range Sum
+13. Subarrays with sum K
