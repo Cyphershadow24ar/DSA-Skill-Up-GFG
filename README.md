@@ -15,3 +15,4 @@ This Repository contains all the solutions to the All the DSA questions asked in
 11. Make Matrix Beautiful
 12. ASCII Range Sum
 13. Subarrays with sum K
+14. Powerful Integer
