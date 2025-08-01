@@ -16,3 +16,4 @@ This Repository contains all the solutions to the All the DSA questions asked in
 12. ASCII Range Sum
 13. Subarrays with sum K
 14. Powerful Integer
+15. Balancing Consonants and Vowels Ratio
