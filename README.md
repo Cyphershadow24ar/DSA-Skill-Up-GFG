@@ -17,3 +17,4 @@ This Repository contains all the solutions to the All the DSA questions asked in
 13. Subarrays with sum K
 14. Powerful Integer
 15. Balancing Consonants and Vowels Ratio
+16. Longest Subarray with Majority Greater than K
