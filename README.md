@@ -20,3 +20,4 @@ This Repository contains all the solutions to the All the DSA questions asked in
 16. Longest Subarray with Majority Greater than K
 17. 2D Difference Array
 18. Maximum sum Rectangle
+19.  Palindrome Sentence
