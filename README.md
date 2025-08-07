@@ -22,3 +22,4 @@ This Repository contains all the solutions to the All the DSA questions asked in
 18. Maximum sum Rectangle
 19. Palindrome Sentence
 20. Roman Number to Integer
+21. Difference CHeck
