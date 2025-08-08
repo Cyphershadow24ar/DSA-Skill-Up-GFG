@@ -23,3 +23,4 @@ This Repository contains all the solutions to the All the DSA questions asked in
 19. Palindrome Sentence
 20. Roman Number to Integer
 21. Difference CHeck
+22. Longest Prefix Suffix
