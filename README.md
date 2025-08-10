@@ -25,3 +25,4 @@ This Repository contains all the solutions to the All the DSA questions asked in
 21. Difference CHeck
 22. Longest Prefix Suffix
 23. Longest Periodic Proper Prefix
+24. Palindrome SubStrings
