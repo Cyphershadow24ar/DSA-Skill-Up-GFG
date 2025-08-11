@@ -26,3 +26,4 @@ This Repository contains all the solutions to the All the DSA questions asked in
 22. Longest Prefix Suffix
 23. Longest Periodic Proper Prefix
 24. Palindrome SubStrings
+25. Maximum Non-Overlapping Odd Palindrome Sum
