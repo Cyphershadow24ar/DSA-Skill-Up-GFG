@@ -30,3 +30,4 @@ This Repository contains all the solutions to the All the DSA questions asked in
 26. Shop in Candy Store
 27. Tywin's War Strategy
 28. Count Reverse Pairs
+29. Insert Interval
