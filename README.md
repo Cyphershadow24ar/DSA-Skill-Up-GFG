@@ -34,3 +34,4 @@ This Repository contains all the solutions to the All the DSA questions asked in
 30. Form the Largest Number
 31.  Sort by Absolute Difference
 32.  Find H-Index
+33.  Farthest Smaller Right
