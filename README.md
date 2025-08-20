@@ -35,3 +35,4 @@ This Repository contains all the solutions to the All the DSA questions asked in
 31.  Sort by Absolute Difference
 32.  Find H-Index
 33.  Farthest Smaller Right
+34. Search in fully rotated sorted 2D matrix
