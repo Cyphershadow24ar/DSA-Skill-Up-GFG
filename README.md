@@ -38,3 +38,4 @@ This Repository contains all the solutions to the All the DSA questions asked in
 34. Search in fully rotated sorted 2D matrix
 35. Maximize the minimum difference between k elements
 36. Median in a row-wise sorted Matrix
+37. Allocate Minimum Pages
