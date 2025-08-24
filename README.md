@@ -39,3 +39,4 @@ This Repository contains all the solutions to the All the DSA questions asked in
 35. Maximize the minimum difference between k elements
 36. Median in a row-wise sorted Matrix
 37. Allocate Minimum Pages
+38. Minimum days to make M bouquets
