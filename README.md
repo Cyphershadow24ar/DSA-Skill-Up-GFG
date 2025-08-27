@@ -42,3 +42,4 @@ This Repository contains all the solutions to the All the DSA questions asked in
 38. Minimum days to make M bouquets
 39. Maximize median after doing k addition operation
 40. Check if a String is Subsequence of Other
+41. Count the number of possible triangles
