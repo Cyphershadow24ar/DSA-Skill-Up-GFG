@@ -43,3 +43,4 @@ This Repository contains all the solutions to the All the DSA questions asked in
 39. Maximize median after doing k addition operation
 40. Check if a String is Subsequence of Other
 41. Count the number of possible triangles
+42. Maximize Number of 1's
