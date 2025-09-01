@@ -46,3 +46,4 @@ This Repository contains all the solutions to the All the DSA questions asked in
 42. Maximize Number of 1's
 43. Smallest window containing all characters
 44. Container With Most Water
+45. Sum of Mode
