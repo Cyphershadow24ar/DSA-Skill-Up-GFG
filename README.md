@@ -47,3 +47,4 @@ This Repository contains all the solutions to the All the DSA questions asked in
 43. Smallest window containing all characters
 44. Container With Most Water
 45. Sum of Mode
+46. Swap Kth nodes from ends
