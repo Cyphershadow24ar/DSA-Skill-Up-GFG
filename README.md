@@ -48,3 +48,4 @@ This Repository contains all the solutions to the All the DSA questions asked in
 44. Container With Most Water
 45. Sum of Mode
 46. Swap Kth nodes from ends
+47. Reverse a Doubly Linked List
