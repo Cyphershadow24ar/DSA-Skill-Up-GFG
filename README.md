@@ -50,3 +50,4 @@ This Repository contains all the solutions to the All the DSA questions asked in
 46. Swap Kth nodes from ends
 47. Reverse a Doubly Linked List
 48. Linked List Group Reverse
+49. Sort a linked list of 0s, 1s and 2s
