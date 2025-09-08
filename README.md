@@ -53,3 +53,4 @@ This Repository contains all the solutions to the All the DSA questions asked in
 49. Sort a linked list of 0s, 1s and 2s
 50. Find length of Loop
 51. Merge K sorted linked lists
+52. Merge Sort for Linked List
