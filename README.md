@@ -66,4 +66,5 @@ This Repository contains all the solutions to the All the DSA questions asked in
 62. Unique K-Number Sum
 63. Possible Words From Phone Digits
 64. Expression Add Operators
+65. Rat in a Maze
 
