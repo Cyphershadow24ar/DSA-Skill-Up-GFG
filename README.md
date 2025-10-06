@@ -67,4 +67,5 @@ This Repository contains all the solutions to the All the DSA questions asked in
 63. Possible Words From Phone Digits
 64. Expression Add Operators
 65. Rat in a Maze
+66. The Knight's Tour problem
 
