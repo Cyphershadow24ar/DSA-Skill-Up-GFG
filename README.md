@@ -69,5 +69,6 @@ This Repository contains all the solutions to the All the DSA questions asked in
 65. Rat in a Maze
 66. The Knight's Tour problem
 67. Distribute Candies
+68. Maximum Non-Adjacent Nodes Sum
 
 
