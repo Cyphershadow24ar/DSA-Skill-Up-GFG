@@ -71,5 +71,6 @@ This Repository contains all the solutions to the All the DSA questions asked in
 67. Distribute Candies
 68. Maximum Non-Adjacent Nodes Sum
 69. Remove BST keys outside given range
+70.  K closest Values
 
 
