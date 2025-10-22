@@ -73,5 +73,6 @@ This Repository contains all the solutions to the All the DSA questions asked in
 69. Remove BST keys outside given range
 70. K closest Values
 71. Top K Frequent in Array
+72. Nearly sorted
 
 
