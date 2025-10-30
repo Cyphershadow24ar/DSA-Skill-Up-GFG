@@ -76,5 +76,7 @@ This Repository contains all the solutions to the All the DSA questions asked in
 72. Nearly sorted
 73. Minimum Cost of ropes
 74.  Graph Diameter
+75.  Replace O's with X's
+
 
 
