@@ -77,6 +77,8 @@ This Repository contains all the solutions to the All the DSA questions asked in
 73. Minimum Cost of ropes
 74.  Graph Diameter
 75.  Replace O's with X's
+76.  XOR Pairs less than K
+
 
 
 
