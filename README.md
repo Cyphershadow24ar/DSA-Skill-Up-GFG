@@ -80,6 +80,7 @@ This Repository contains all the solutions to the All the DSA questions asked in
 76.  XOR Pairs less than K
 77. Maximise String Score
 78. Travelling Salesman Problem
+79. Optimal binary search tree
 
 
 
