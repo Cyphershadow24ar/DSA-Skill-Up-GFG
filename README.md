@@ -83,7 +83,7 @@ This Repository contains all the solutions to the All the DSA questions asked in
 79. Optimal binary search tree
 80. Walls Coloring II
 81. Optimal Strategy For A Game
-
+82. Number of distinct subsequences
 
 
 
