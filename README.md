@@ -85,6 +85,7 @@ This Repository contains all the solutions to the All the DSA questions asked in
 81. Optimal Strategy For A Game
 82. Number of distinct subsequences
 83. Brackets in Matrix Chain Multiplication
+84.  Array Duplicates
 
 
 
