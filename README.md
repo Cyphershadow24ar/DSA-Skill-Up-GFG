@@ -87,6 +87,8 @@ This Repository contains all the solutions to the All the DSA questions asked in
 83. Brackets in Matrix Chain Multiplication
 84.  Array Duplicates
 85.  Missing And Repeating
+86.  Construct an array from its pair-sum array
+
 
 
 
