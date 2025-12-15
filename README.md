@@ -91,6 +91,8 @@ This Repository contains all the solutions to the All the DSA questions asked in
 87.  Transpose of Matrix
 88.  Swap diagonals
 89.  2D Submatrix Sum Queries
+90.  Count Indices to Balance Even and Odd Sums
+
 
 
 
