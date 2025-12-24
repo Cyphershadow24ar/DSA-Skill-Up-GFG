@@ -101,6 +101,7 @@ This Repository contains all the solutions to the All the DSA questions asked in
 97.  Row with max 1s
 98.  Elements in range [a,b]
 99.  Count elements less than or equal to k in a sorted rotated array
+100.  Find the Peak Element in a 2D Matrix
 
 
 
