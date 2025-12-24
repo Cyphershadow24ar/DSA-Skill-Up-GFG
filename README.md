@@ -99,7 +99,9 @@ This Repository contains all the solutions to the All the DSA questions asked in
 95.  Search insert position of K in a sorted array
 96.  Count X in Range of a Sorted Array
 97.  Row with max 1s
-98.  Elements in range [a, b]
+98.  Elements in range [a,b]
+99.  Count elements less than or equal to k in a sorted rotated array
+
 
 
 
