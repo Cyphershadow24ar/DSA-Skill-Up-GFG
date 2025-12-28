@@ -105,6 +105,7 @@ This Repository contains all the solutions to the All the DSA questions asked in
 101. Kth Missing Positive Number in a Sorted Array
 102. Kth smallest element in a Matrix
 103. Minimum timne to fulfill all orders
+104.  K-th element of two Arrays
 
 
 
