@@ -115,6 +115,7 @@ This Repository contains all the solutions to the All the DSA questions asked in
 111. Max Xor Subarray of size K
 112. Count distinct elements in every window
 113. Count Subarray with k odds
+114. Subarrays With At Most K Distinct Integers
 
 
 
