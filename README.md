@@ -123,6 +123,7 @@ This Repository contains all the solutions to the All the DSA questions asked in
 119.  Police and Thieves
 120.  Candy
 121.  Minimum Number of Workers
+122.  Expression contains redundant bracket or not
 
 
 
