@@ -125,6 +125,7 @@ This Repository contains all the solutions to the All the DSA questions asked in
 121.  Minimum Number of Workers
 122.  Expression contains redundant bracket or not
 123.  Next element with greater frequency
+124.  Remove K Digits
 
 
 
