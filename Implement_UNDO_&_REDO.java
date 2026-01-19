@@ -1,0 +1,37 @@
+// PROBLEM : Implement UNDO & REDO
+
+// SOLUTION :
+
+import java.util.Stack;
+
+class Solution {
+    private StringBuilder doc = new StringBuilder();
+    private Stack<Character> undoStack = new Stack<>();
+    private Stack<Character> redoStack = new Stack<>();
+
+    public void append(char x) {
+        doc.append(x);
+        undoStack.push(x);
+        redoStack.clear(); // new operation clears redo history
+    }
+
+    public void undo() {
+        if (!undoStack.isEmpty()) {
+            char ch = undoStack.pop();
+            doc.deleteCharAt(doc.length() - 1);
+            redoStack.push(ch);
+        }
+    }
+
+    public void redo() {
+        if (!redoStack.isEmpty()) {
+            char ch = redoStack.pop();
+            doc.append(ch);
+            undoStack.push(ch);
+        }
+    }
+
+    public String read() {
+        return doc.toString();
+    }
+}
