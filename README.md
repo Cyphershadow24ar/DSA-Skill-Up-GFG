@@ -128,6 +128,7 @@ This Repository contains all the solutions to the All the DSA questions asked in
 124.  Remove K Digits
 125.  Implement UNDO & REDO
 126. Stock span problem
+127. Sum of subarray ranges
 
 
 
