@@ -132,6 +132,7 @@ This Repository contains all the solutions to the All the DSA questions asked in
 128. Maximum People Visible in a Line
 129. Josephus problem
 130. Number of Valid Parentheses
+131. Generate Permutations of an array
 
 
 
