@@ -140,6 +140,7 @@ This Repository contains all the solutions to the All the DSA questions asked in
 136. Implement k Queues in a Single Array
 137. K Sized Subarray Maximum
 138. Max Circular Subarray Sum
+139. Stock Buy and Sell – Max one Transaction Allowed
 
 
 
