@@ -145,6 +145,8 @@ This Repository contains all the solutions to the All the DSA questions asked in
 141. Maximize Number of 1's
 142. Happiest Triplet
 143. Max sum in the configuration
+144. Maximum Product Subarray
+
 
 
 
