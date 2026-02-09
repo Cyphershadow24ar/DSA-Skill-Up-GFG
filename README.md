@@ -147,6 +147,7 @@ This Repository contains all the solutions to the All the DSA questions asked in
 143. Max sum in the configuration
 144. Maximum Product Subarray
 145. Find Kth Rotation
+146. Koko Eating Bananas
 
 
 
