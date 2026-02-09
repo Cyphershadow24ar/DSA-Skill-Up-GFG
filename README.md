@@ -146,6 +146,7 @@ This Repository contains all the solutions to the All the DSA questions asked in
 142. Happiest Triplet
 143. Max sum in the configuration
 144. Maximum Product Subarray
+145. Find Kth Rotation
 
 
 
