@@ -149,6 +149,7 @@ This Repository contains all the solutions to the All the DSA questions asked in
 145. Find Kth Rotation
 146. Koko Eating Bananas
 147. Equalize the Towers
+148. Max min Height
 
 
 
