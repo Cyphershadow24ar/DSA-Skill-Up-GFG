@@ -150,6 +150,8 @@ This Repository contains all the solutions to the All the DSA questions asked in
 146. Koko Eating Bananas
 147. Equalize the Towers
 148. Max min Height
+149. All numbers with specific difference
+
 
 
 
