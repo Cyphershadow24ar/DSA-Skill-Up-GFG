@@ -151,6 +151,8 @@ This Repository contains all the solutions to the All the DSA questions asked in
 147. Equalize the Towers
 148. Max min Height
 149. All numbers with specific difference
+150. The Painter's Partition Problem-II
+
 
 
 
