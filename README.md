@@ -155,6 +155,8 @@ This Repository contains all the solutions to the All the DSA questions asked in
 151. Chocolate Distribution Problem
 152. Meeting Rooms
 153. Maximum number of overlapping Intervals
+154. Count Inversions
+
 
 
 
