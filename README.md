@@ -157,6 +157,8 @@ This Repository contains all the solutions to the All the DSA questions asked in
 153. Maximum number of overlapping Intervals
 154. Count Inversions
 155. Missing Element in Range
+156. Form the Largest Number
+
 
 
 
