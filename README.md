@@ -158,6 +158,8 @@ This Repository contains all the solutions to the All the DSA questions asked in
 154. Count Inversions
 155. Missing Element in Range
 156. Form the Largest Number
+157. Find H-Index
+
 
 
 
