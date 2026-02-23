@@ -161,6 +161,8 @@ This Repository contains all the solutions to the All the DSA questions asked in
 157. Find H-Index
 158. Count Subarrays with given XOR
 159. Union of Arrays with Duplicates
+160. Longest Span in two Binary Arrays
+
 
 
 
