@@ -164,6 +164,8 @@ This Repository contains all the solutions to the All the DSA questions asked in
 160. Longest Span in two Binary Arrays
 161. Longest Subarray with Majority Greater than K
 162. Number of submatrix have sum X
+163. Find the closest pair from two arrays
+
 
 
 
