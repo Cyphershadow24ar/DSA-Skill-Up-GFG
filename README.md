@@ -166,6 +166,7 @@ This Repository contains all the solutions to the All the DSA questions asked in
 162. Number of submatrix have sum X
 163. Find the closest pair from two arrays
 164. Move All Zeroes to End
+165. Trapping Rain Water
 
 
 
