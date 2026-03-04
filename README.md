@@ -168,6 +168,7 @@ This Repository contains all the solutions to the All the DSA questions asked in
 164. Move All Zeroes to End
 165. Trapping Rain Water
 166. Longest subarray with Atmost two distinct integers
+167. Max Xor Subarray of size K
 
 
 
