@@ -171,7 +171,9 @@ This Repository contains all the solutions to the All the DSA questions asked in
 167. Max Xor Subarray of size K
 168. Smallest window containing all characters
 169. Largest number in one swap
-
+170. Dice Throw
+171. Pythagorean Triplet
+172. Subarrays with First Element Minimum
 
 
 
