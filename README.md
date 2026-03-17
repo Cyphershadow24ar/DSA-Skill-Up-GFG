@@ -179,5 +179,6 @@ This Repository contains all the solutions to the All the DSA questions asked in
 175. Generate IP Addresses
 176. Top View of Binary Tree
 177. Vertical Tree Traversal
+178. Burning Tree
 
 
