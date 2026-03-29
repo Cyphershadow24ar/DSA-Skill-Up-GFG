@@ -188,6 +188,8 @@ This Repository contains all the solutions to the All the DSA questions asked in
 184. Minimum height roots
 185. Number of Ways to Arrive at Destination
 186. Chocolates Pickup
+187. Partitions with Given Difference
+
 
 
 
