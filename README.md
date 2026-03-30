@@ -190,6 +190,8 @@ This Repository contains all the solutions to the All the DSA questions asked in
 186. Chocolates Pickup
 187. Partitions with Given Difference
 188. Minimum cost to connect all houses in a city
+189. Buy Stock with Transaction Fee
+
 
 
 
