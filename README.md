@@ -192,6 +192,8 @@ This Repository contains all the solutions to the All the DSA questions asked in
 188. Minimum cost to connect all houses in a city
 189. Buy Stock with Transaction Fee
 190. Painting the Fence
+191. Print Diagonally
+
 
 
 
