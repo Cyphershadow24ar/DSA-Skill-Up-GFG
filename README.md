@@ -193,6 +193,8 @@ This Repository contains all the solutions to the All the DSA questions asked in
 189. Buy Stock with Transaction Fee
 190. Painting the Fence
 191. Print Diagonally
+192. Gray Code
+
 
 
 
