@@ -195,6 +195,7 @@ This Repository contains all the solutions to the All the DSA questions asked in
 191. Print Diagonally
 192. Gray Code
 193. Target Sum
+194. Huffman Encoding
 
 
 
