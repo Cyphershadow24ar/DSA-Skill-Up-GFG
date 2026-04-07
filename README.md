@@ -196,6 +196,7 @@ This Repository contains all the solutions to the All the DSA questions asked in
 192. Gray Code
 193. Target Sum
 194. Huffman Encoding
+195. Stable Marriage Problem
 
 
 
