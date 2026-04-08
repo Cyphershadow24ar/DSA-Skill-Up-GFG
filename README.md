@@ -197,7 +197,8 @@ This Repository contains all the solutions to the All the DSA questions asked in
 193. Target Sum
 194. Huffman Encoding
 195. Stable Marriage Problem
-196. Intersection of Two Sorted Arrays
+196. Segregate 0s and 1s
+197. Intersection of Two Sorted Arrays
 
 
 
