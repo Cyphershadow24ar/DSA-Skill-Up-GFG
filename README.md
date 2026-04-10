@@ -200,6 +200,8 @@ This Repository contains all the solutions to the All the DSA questions asked in
 196. Segregate 0s and 1s
 197. Intersection of Two Sorted Arrays
 198. Sorted subsequence of size 3
+199. Count increasing Subarrays
+
 
 
 
