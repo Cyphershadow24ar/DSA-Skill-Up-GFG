@@ -203,6 +203,7 @@ This Repository contains all the solutions to the All the DSA questions asked in
 199. Count increasing Subarrays
 200. Toeplitz matrix
 201. Next Smallest Palindrome
+202. Remove Spaces
 
 
 
