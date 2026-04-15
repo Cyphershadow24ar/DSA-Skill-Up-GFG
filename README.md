@@ -205,6 +205,8 @@ This Repository contains all the solutions to the All the DSA questions asked in
 201. Next Smallest Palindrome
 202. Remove Spaces
 203. URLify a given string
+204. Implement Atoi
+
 
 
 
