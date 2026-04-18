@@ -207,6 +207,8 @@ This Repository contains all the solutions to the All the DSA questions asked in
 203. URLify a given string
 204. Implement Atoi
 205. Anagram Palindrome
+206. Flip to Maximize 1s
+
 
 
 
