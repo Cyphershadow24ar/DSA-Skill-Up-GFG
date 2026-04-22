@@ -212,6 +212,7 @@ This Repository contains all the solutions to the All the DSA questions asked in
 208. Count Derangements
 209. Two water Jug problem
 210. Mean of range in array
+211. Two Equal Sum Subarrays
 
 
 
