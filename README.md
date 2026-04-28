@@ -218,6 +218,8 @@ This Repository contains all the solutions to the All the DSA questions asked in
 214. Common in 3 Sorted Arrays
 215. Smallest window containing 0, 1 and 2
 216. Longest Repeating Character Replacement
+217. Min Swaps to Group 1s
+
 
 
 
