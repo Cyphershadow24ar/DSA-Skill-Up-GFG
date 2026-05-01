@@ -221,6 +221,8 @@ This Repository contains all the solutions to the All the DSA questions asked in
 217. Min Swaps to Group 1s
 218. Check if an Array is Max Heap
 219. Kth Largest in a Stream
+220. Position of the Set Bit
+
 
 
 
