@@ -222,6 +222,7 @@ This Repository contains all the solutions to the All the DSA questions asked in
 218. Check if an Array is Max Heap
 219. Kth Largest in a Stream
 220. Position of the Set Bit
+221. Sort by Set Bit Count
 
 
 
