@@ -225,6 +225,7 @@ This Repository contains all the solutions to the All the DSA questions asked in
 221. Sort by Set Bit Count
 222. Palindrome Binary
 223. Sum of XOR of all pairs
+224. Size of Binary Tree
 
 
 
