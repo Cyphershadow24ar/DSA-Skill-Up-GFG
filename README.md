@@ -226,6 +226,8 @@ This Repository contains all the solutions to the All the DSA questions asked in
 222. Palindrome Binary
 223. Sum of XOR of all pairs
 224. Size of Binary Tree
+225. Remove Invalid Parentheses
+
 
 
 
