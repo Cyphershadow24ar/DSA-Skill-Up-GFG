@@ -229,6 +229,8 @@ This Repository contains all the solutions to the All the DSA questions asked in
 225. Remove Invalid Parentheses
 226. Count Spanning Trees in a Graph
 227. Max Profit from Two Machines
+228. Palindrome Pairs
+
 
 
 
