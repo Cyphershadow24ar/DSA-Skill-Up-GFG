@@ -231,6 +231,7 @@ This Repository contains all the solutions to the All the DSA questions asked in
 227. Max Profit from Two Machines
 228. Palindrome Pairs
 229. Range LCM Queries
+230. Mother Vertex
 
 
 
