@@ -233,6 +233,7 @@ This Repository contains all the solutions to the All the DSA questions asked in
 229. Range LCM Queries
 230. Mother Vertex
 231. Special Keyboard
+232. Not a subset sum
 
 
 
