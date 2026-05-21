@@ -238,6 +238,7 @@ This Repository contains all the solutions to the All the DSA questions asked in
 234. Maximum Sum Problem
 235. Minimum Multiplications to reach End
 236. Product Pair
+237. Check if All Bits Set
 
 
 
