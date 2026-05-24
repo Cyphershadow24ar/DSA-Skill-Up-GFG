@@ -242,6 +242,7 @@ This Repository contains all the solutions to the All the DSA questions asked in
 238. 1s Surrounded by 0s\
 239. Transform to Sum Tree
 240. Last Coin in a Game of Alternates
+241. Elements in the Range
 
 
 
