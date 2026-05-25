@@ -243,6 +243,7 @@ This Repository contains all the solutions to the All the DSA questions asked in
 239. Transform to Sum Tree
 240. Last Coin in a Game of Alternates
 241. Elements in the Range
+242.  Minimum Toogles to partition
 
 
 
