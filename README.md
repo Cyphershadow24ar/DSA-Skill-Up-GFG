@@ -244,6 +244,7 @@ This Repository contains all the solutions to the All the DSA questions asked in
 240. Last Coin in a Game of Alternates
 241. Elements in the Range
 242.  Minimum Toogles to partition
+243.  Wifi Range
 
 
 
