@@ -247,6 +247,7 @@ This Repository contains all the solutions to the All the DSA questions asked in
 243.  Wifi Range
 244.  Vertical Sum
 245.  Count Sorted Digit Groupings
+246.  Replace with XOR of Adjacent
 
 
 
