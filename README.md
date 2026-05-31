@@ -248,6 +248,7 @@ This Repository contains all the solutions to the All the DSA questions asked in
 244.  Vertical Sum
 245.  Count Sorted Digit Groupings
 246.  Replace with XOR of Adjacent
+247.  Max Product Subset
 
 
 
