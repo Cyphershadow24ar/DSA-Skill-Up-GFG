@@ -250,6 +250,7 @@ This Repository contains all the solutions to the All the DSA questions asked in
 246.  Replace with XOR of Adjacent
 247.  Max Product Subset
 248.  Pairs with certain difference
+249.  Subarray Frequency Count Queries
 
 
 
