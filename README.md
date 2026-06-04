@@ -252,6 +252,8 @@ This Repository contains all the solutions to the All the DSA questions asked in
 248.  Pairs with certain difference
 249.  Subarray Frequency Count Queries
 250.  Substring with Max Zero-One Diff
+251.  Lexicographically smallest after removing k
+
 
 
 
