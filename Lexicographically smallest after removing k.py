@@ -1,6 +1,6 @@
-# PROBLEM :
+# PROBLEM :Lexicographically smallest after removing k
 
-# SOLTION :
+# SOLUTION :
 
 class Solution:
     def lexicographicallySmallest(self, s, k):
