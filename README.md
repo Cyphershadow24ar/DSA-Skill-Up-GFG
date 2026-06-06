@@ -253,6 +253,8 @@ This Repository contains all the solutions to the All the DSA questions asked in
 249.  Subarray Frequency Count Queries
 250.  Substring with Max Zero-One Diff
 251.  Lexicographically smallest after removing k
+252.  Non-Attacking Black and White Knights
+
 
 
 
