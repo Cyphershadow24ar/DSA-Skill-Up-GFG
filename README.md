@@ -256,6 +256,8 @@ This Repository contains all the solutions to the All the DSA questions asked in
 252.  Non-Attacking Black and White Knights
 253.  Finding Profession
 254.  Delete Nodes with Greater on Right
+255.  Binary Searchable Count
+
 
 
 
