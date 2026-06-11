@@ -258,6 +258,8 @@ This Repository contains all the solutions to the All the DSA questions asked in
 254.  Delete Nodes with Greater on Right
 255.  Binary Searchable Count
 256.  Equal Point in Brackets
+257.  Check Repeated Substring with K Replacements
+
 
 
 
