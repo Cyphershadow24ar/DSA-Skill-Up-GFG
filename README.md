@@ -259,6 +259,8 @@ This Repository contains all the solutions to the All the DSA questions asked in
 255.  Binary Searchable Count
 256.  Equal Point in Brackets
 257.  Check Repeated Substring with K Replacements
+258.  Binary Strings with Equal Sum of Two Halves
+
 
 
 
