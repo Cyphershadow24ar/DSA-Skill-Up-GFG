@@ -261,7 +261,9 @@ This Repository contains all the solutions to the All the DSA questions asked in
 257.  Check Repeated Substring with K Replacements
 258.  Binary Strings with Equal Sum of Two Halves
 259.  Exit Point in a Matrix
-260.  Minimum cost to fill given weight in a bag
+260.  Minimum cost to fill given weight in a bag\
+261.  Cut rope to maximise product
+
 
 
 
