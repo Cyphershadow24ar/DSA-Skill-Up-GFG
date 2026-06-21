@@ -266,6 +266,8 @@ This Repository contains all the solutions to the All the DSA questions asked in
 262.  Coverage of all Zeros in a Binary Matrix
 263.  Equalize All Prefix Sums
 264.  Last Digit of a^b
+265.  Choose and Swap
+
 
 
 
