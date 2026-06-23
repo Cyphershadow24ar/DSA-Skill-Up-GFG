@@ -268,6 +268,8 @@ This Repository contains all the solutions to the All the DSA questions asked in
 264.  Last Digit of a^b
 265.  Choose and Swap
 266.  Maximum Area Between Bars
+267.  Maximum Number of People Defeated
+
 
 
 
