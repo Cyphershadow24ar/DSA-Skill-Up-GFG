@@ -269,6 +269,8 @@ This Repository contains all the solutions to the All the DSA questions asked in
 265.  Choose and Swap
 266.  Maximum Area Between Bars
 267.  Maximum Number of People Defeated
+268.  Rat Maze With Multiple Jumps
+
 
 
 
