@@ -271,6 +271,7 @@ This Repository contains all the solutions to the All the DSA questions asked in
 267.  Maximum Number of People Defeated
 268.  Rat Maze With Multiple Jumps
 269.  N-Digit Numbers with Increasing Digits
+270.  Count Matching Subsequences
 
 
 
