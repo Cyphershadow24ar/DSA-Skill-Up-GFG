@@ -273,6 +273,8 @@ This Repository contains all the solutions to the All the DSA questions asked in
 269.  N-Digit Numbers with Increasing Digits
 270.  Count Matching Subsequences
 271.  Ways to Tile the Floor
+272.  k Times Appearing Adjacent Two 1's
+
 
 
 
