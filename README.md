@@ -274,6 +274,8 @@ This Repository contains all the solutions to the All the DSA questions asked in
 270.  Count Matching Subsequences
 271.  Ways to Tile the Floor
 272.  k Times Appearing Adjacent Two 1's
+273.  Max Dot Product with 0 Insertions
+
 
 
 
