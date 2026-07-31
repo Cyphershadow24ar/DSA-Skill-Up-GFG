@@ -276,6 +276,7 @@ This Repository contains all the solutions to the All the DSA questions asked in
 272.  k Times Appearing Adjacent Two 1's
 273.  Max Dot Product with 0 Insertions
 274.  Maximum Subset XOR
+275.  Subsets with Products of Distinct Primes
 
 
 
