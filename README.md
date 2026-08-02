@@ -277,6 +277,7 @@ This Repository contains all the solutions to the All the DSA questions asked in
 273.  Max Dot Product with 0 Insertions
 274.  Maximum Subset XOR
 275.  Subsets with Products of Distinct Primes
+276.  Sequences where Adjacent Divide
 
 
 
