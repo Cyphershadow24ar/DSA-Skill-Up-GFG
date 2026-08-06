@@ -281,6 +281,7 @@ This Repository contains all the solutions to the All the DSA questions asked in
 277.  Max Sum Subarray of Size at least K
 278.  Pairs with Less Than K Diff
 279.  Subarrays with Sum in Range
+280.  Minimum Increment or Double Operations to Convert
 
 
 
