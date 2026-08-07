@@ -282,6 +282,7 @@ This Repository contains all the solutions to the All the DSA questions asked in
 278.  Pairs with Less Than K Diff
 279.  Subarrays with Sum in Range
 280.  Minimum Increment or Double Operations to Convert
+281.  Friends Pairing Problem
 
 
 
