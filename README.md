@@ -287,6 +287,7 @@ This Repository contains all the solutions to the All the DSA questions asked in
 283.  Largest Zigzag Sequence
 284.  High Effort vs Low Effort
 285.   Largest Odd Squares with Limited 1s
+286.   Adventure in a Maze
 
 
 
