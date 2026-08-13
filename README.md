@@ -289,7 +289,7 @@ This Repository contains all the solutions to the All the DSA questions asked in
 285.   Largest Odd Squares with Limited 1s
 286.   Adventure in a Maze
 287.   Longest Path in a Directed Acyclic Graph
-
-
+288.   Subset Sum on Generated Sequence
+  
 
 
