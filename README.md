@@ -291,6 +291,7 @@ This Repository contains all the solutions to the All the DSA questions asked in
 287.   Longest Path in a Directed Acyclic Graph
 288.   Subset Sum on Generated Sequence
 289.   Numbers Without d as Digit
+290.   Min Product Subset
 
   
 
