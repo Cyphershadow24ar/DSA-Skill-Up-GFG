@@ -292,8 +292,10 @@ This Repository contains all the solutions to the All the DSA questions asked in
 288.   Subset Sum on Generated Sequence
 289.   Numbers Without d as Digit
 290.   Secret Cipher
-291.   Min Product Subset
-292.   Snake and Ladder Problem
+291.   Triplets with Sum in Range
+
+292.   Min Product Subset
+293.   Snake and Ladder Problem
 
   
 
