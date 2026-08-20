@@ -293,9 +293,9 @@ This Repository contains all the solutions to the All the DSA questions asked in
 289.   Numbers Without d as Digit
 290.   Secret Cipher
 291.   Triplets with Sum in Range
-
 292.   Min Product Subset
 293.   Snake and Ladder Problem
+294.   Node and Ancestor Max Diff
 
   
 
