@@ -297,6 +297,7 @@ This Repository contains all the solutions to the All the DSA questions asked in
 293.   Snake and Ladder Problem
 294.   Node and Ancestor Max Diff
 295.   Number of Turns in Binary Tree
+296.   Geek in a Maze
 
 
   
