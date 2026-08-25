@@ -299,6 +299,8 @@ This Repository contains all the solutions to the All the DSA questions asked in
 295.   Number of Turns in Binary Tree
 296.   Geek in a Maze
 297.   Count Prefix-Balanced Binary Strings
+298.   Minimum Moves to Sort Permutation
+
 
 
 
