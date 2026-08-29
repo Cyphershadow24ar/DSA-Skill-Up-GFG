@@ -303,6 +303,8 @@ This Repository contains all the solutions to the All the DSA questions asked in
 299.   Negative Weight Cycle
 300.   Largest Rectangle with Column Swaps
 301.   Minimum Cost Selection
+302.   Count Subsequences Divisible by n
+
 
 
 
